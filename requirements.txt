@@ -1,5 +1,7 @@
 streamlit
-scikit-learn==1.6.1
-imbalanced-learn==0.14.0
-pandas==2.2.2
-numpy==1.26.4
+joblib
+numpy
+imbalanced-learn
+category_encoders
+xgboost
+scikit-learn
